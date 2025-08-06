@@ -23323,7 +23323,7 @@ TJ(a){return A.aHm(a)},
 aHm(a){var s=0,r=A.R(t.Nj),q,p,o,n,m,l,k,j,i,h,g
 var $async$TJ=A.N(function(b,c){if(b===1)return A.O(c,r)
 while(true)switch(s){case 0:s=3
-return A.W(A.aHu(A.hu("http://api.weatherapi.com/v1/current.json?key=c66cf87af7334e87aba115756250108&q="+a+"&aqi=no")),$async$TJ)
+return A.W(A.aHu(A.hu("https://api.weatherapi.com/v1/current.json?key=c66cf87af7334e87aba115756250108&q="+a+"&aqi=no")),$async$TJ)
 case 3:g=c
 if(g.b===200){p=B.dk.Oq(0,A.aHg(A.aF_(g.e)).fd(0,g.w),null)
 o=J.aE(p)
